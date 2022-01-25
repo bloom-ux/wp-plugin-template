@@ -1,6 +1,6 @@
 {
-    "name": "bloom-ux/wp-plugin-boilerplate",
-    "description": "Boilerplate for WordPress plugins",
+    "name": "bloom-ux/wp-plugin-template",
+    "description": "Basic template for WordPress plugins",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-or-later",
     "authors": [
