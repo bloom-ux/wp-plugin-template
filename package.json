@@ -5,14 +5,14 @@
   "license": "GPL-2.0-or-later",
   "private": true,
   "devDependencies": {
-    "@symfony/webpack-encore": "^4.2.0",
+    "@symfony/webpack-encore": "^5.0.1",
     "@wordpress/babel-preset-default": "^8.2.0",
     "@wordpress/dependency-extraction-webpack-plugin": "^6.2.0",
-    "@wordpress/eslint-plugin": "^19.2.0",
-    "@wordpress/prettier-config": "^3.14.0",
-    "@wordpress/scripts": "^28.2.0",
-    "postcss-loader": "^7.0.2",
-    "sass": "^1.57.1",
-    "sass-loader": "^14.2.1"
+    "@wordpress/eslint-plugin": "^22.2.0",
+    "@wordpress/prettier-config": "^4.16.0",
+    "@wordpress/scripts": "^30.9.0",
+    "postcss-loader": "^8.1.1",
+    "sass": "^1.83.4",
+    "sass-loader": "^16.0.4"
   }
 }
